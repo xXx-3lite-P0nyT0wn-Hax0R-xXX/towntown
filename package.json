@@ -1,0 +1,41 @@
+{
+  "name": "town",
+  "version": "1.0.0",
+  "description": "a town for ponies",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xXx-3lite-P0nyT0wn-Hax0R-xXX/towntown.git"
+  },
+  "keywords": [
+    "pony",
+    "town"
+  ],
+  "author": "Boots",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xXx-3lite-P0nyT0wn-Hax0R-xXX/towntown/issues"
+  },
+  "homepage": "https://github.com/xXx-3lite-P0nyT0wn-Hax0R-xXX/towntown#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "dotenv": "^2.0.0",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "express-validator": "^2.20.8",
+    "jade": "^1.11.0",
+    "multer": "^1.2.0",
+    "node-sass-middleware": "^0.9.8",
+    "nodemailer": "^2.5.0",
+    "ws": "^1.1.1"
+  }
+}
